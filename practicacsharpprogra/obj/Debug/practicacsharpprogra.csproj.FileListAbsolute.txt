@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\bin\Debug\practicacsharpprogra.exe.config
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\bin\Debug\practicacsharpprogra.exe
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\bin\Debug\practicacsharpprogra.pdb
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.Form1.resources
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.exe
+C:\Users\Estudiante\source\repos\Progra1-semi2025\practicacsharpprogra\obj\Debug\practicacsharpprogra.pdb
